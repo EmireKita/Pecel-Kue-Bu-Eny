@@ -5,8 +5,7 @@ Chatbot berbasis web yang membantu pelanggan mendapatkan informasi seputar produ
 ---
 
 ## 📦 Fitur
-- Menampilkan info produk berdasarkan kategori.
-- Informasi toko: alamat, kontak, link GrabFood/GoFood.
+- Menampilkan informasi seputar toko dalam bentuk sebuah ChatBot
 - Admin panel untuk mengelola produk dan toko secara realtime.
 - Data disimpan dan disinkronkan secara realtime melalui Firebase Firestore.
 
@@ -43,7 +42,7 @@ Pastikan kamu sudah membuat project Firebase di https://console.firebase.google.
    ```bash
    npm run dev
 
-
+---
 
 ## 🧑‍💻 Penggunaan
 👤 Sebagai Pengunjung (User):
