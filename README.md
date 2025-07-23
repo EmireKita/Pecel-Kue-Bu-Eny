@@ -56,8 +56,6 @@ Chatbot akan membalas sesuai kategori yang dipilih.
 
 Informasi ditampilkan secara real-time dari Firestore.
 
-Atau ketikkan pertanyaan Anda
-
 
 
 🔐 Sebagai Admin:
