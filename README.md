@@ -13,7 +13,7 @@ Chatbot berbasis web yang membantu pelanggan mendapatkan informasi seputar produ
 ---
 
 ## 🚀 Demo
-> Belum tersedia. Bisa di-deploy menggunakan Vercel, Netlify, atau Heroku (khusus server jika ada backend).
+> https://pecel-kue-bu-eny.web.app/
 
 ---
 
@@ -45,7 +45,7 @@ Pastikan kamu sudah membuat project Firebase di https://console.firebase.google.
 
 
 
-##🧑‍💻 Penggunaan
+## 🧑‍💻 Penggunaan
 👤 Sebagai Pengunjung (User):
 Akses halaman utama chatbot.
 
