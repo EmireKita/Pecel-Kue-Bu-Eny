@@ -51,18 +51,28 @@ Akses halaman utama chatbot.
 
 Pilih menu seperti "Info Produk", "Info Toko", atau "FAQ".
 
+Atau ketikkan pertanyaan Anda
+
 Chatbot akan membalas sesuai kategori yang dipilih.
 
 Informasi ditampilkan secara real-time dari Firestore.
 
+Atau ketikkan pertanyaan Anda
+
+
+
 🔐 Sebagai Admin:
 Klik tombol Login Admin.
 
-Masukkan email dan password admin.
+**Masukkan username dan password admin.**
 
 Setelah login berhasil, akan masuk ke Admin Panel.
 
 Di dalam panel admin:
+
+Tersedia Pilihan: 
+
+**Informasi Produk (Mengelola Produk):**
 
 Tambah Produk: klik tombol ➕
 
@@ -70,6 +80,20 @@ Edit Produk: klik ikon ✏️
 
 Hapus Produk: klik ikon 🗑️
 
-Kelola Info Toko: edit langsung nama, alamat, kontak, dan tautan online
+**Informasi Toko:**
+
+Edit Toko: klik ikon ✏️
+
+**Informasi Pemesanan:**
+
+Edit Informasi: klik ikon ✏️
+
+**Kelola FaQ:**
+
+Tambah FAQ: klik tombol ➕
+
+Edit FAQ: klik ikon ✏️
+
+Hapus FAQ: klik ikon 🗑️
 
 Klik Simpan untuk menyimpan perubahan.
